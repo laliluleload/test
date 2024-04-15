@@ -92,7 +92,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1 group-title="CS" tvg-id="MONDO.TV.jp",Mondo TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 group-title="CS" tvg-id="日テレプラス　ドラマ・アニメ・音楽ライブ.jp",Nittele Plus
+#EXTINF:-1 group-title="CS" tvg-id="日テレジータス.jp",Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 group-title="CS" tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp",Channel Ginga
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
