@@ -65,7 +65,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="ディズニー・チャンネル.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-
+#EXTINF:-1 group-title="BS" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="東映チャンネル.jp",Toei Channel
