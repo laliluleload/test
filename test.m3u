@@ -69,74 +69,64 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 
-#temporary
-#EXTINF:-1 group-title="CS" tvg-id="ジュエリー☆ＧＳＴＶ.jp",GSTV (720p)
-https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1 tvg-id="日テレNEWS24.jp",NTV News24 (480p)
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="日テレNEWS24.jp",NTV News24 (480p)
-https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
-#EXTINF:-1 tvg-id="ショップチャンネル.jp",Shop Channel (1080p) [Not 24/7]
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="アニメシアターX(AT-X).jp",AT-X (720p)
-https://neetball.net/live/neet3.m3u8
-#EXTINF:-1 tvg-id="カートゥーン.ネットワーク.海外アニメ国内アニメ.jp",Cartoon Network Japan (400p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp",Channel Ginga (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 tvg-id="CNNj.jp",CNNj (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 tvg-id="ディズニージュニア.jp",Disney Junior (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 tvg-id="衛星劇場.jp",Eisei Gekijo (544p)
+#CS
+#EXTINF:-1 group-title="CS" tvg-id="東映チャンネル.jp",Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="CS" tvg-id="衛星劇場.jp",Eisei Gekijo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 tvg-id="ファミリー劇場.jp",Family Gekijo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 tvg-id="フジテレビＮＥＸＴ.ライブ・プレミアム.jp",Fuji TV NEXT (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 tvg-id="GAORA.SPORTS.jp",Gaora Sports (544p)
+#EXTINF:-1 group-title="CS" tvg-id="ムービープラス.jp",Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="CS" tvg-id="スカイA.jp",Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="CS" tvg-id="GAORA.SPORTS.jp",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 tvg-id="ゴルフネットワーク.jp",Golf Network (544p)
+#EXTINF:-1 group-title="CS" tvg-id="ゴルフネットワーク.jp",Golf Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 tvg-id="グリーンチャンネル.jp",Green Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 tvg-id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ.jp",Home Drama Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 tvg-id="時代劇専門チャンネル.jp",Jidaigeki Senmon (544p)
+#EXTINF:-1 group-title="CS" tvg-id="TAKARAZUKA.SKY.STAGE.jp",TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="CS" tvg-id="時代劇専門チャンネル.jp",Jidaigeki Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 tvg-id="歌謡ポップスチャンネル.jp",Kayo Pops (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 tvg-id="キッズステーション.テレビアニメ･劇場版･ＯＶＡ.jp",Kids Station (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="CS" tvg-id="ファミリー劇場.jp",Family Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="CS" tvg-id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ.jp",Home Drama Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="CS" tvg-id="MONDO.TV.jp",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="CS" tvg-id="日テレプラス　ドラマ・アニメ・音楽ライブ.jp",Nittele Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="CS" tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp",Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビＮＥＸＴ.ライブ・プレミアム.jp",Fuji TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 tvg-id="女性チャンネル♪LaLa.TV.jp",LaLa TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1 tvg-id="JOOYDTV.jp",MBS (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 tvg-id="MONDO.TV.jp",Mondo TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 tvg-id="ムービープラス.jp",Movie Plus (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 tvg-id="MTV.jp",MTV Japan (544p)
+#EXTINF:-1 group-title="CS" tvg-id="MTV.jp",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 tvg-id="ミュージック・ジャパンTV.jp",Music Japan TV (544p)
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・ジャパンTV.jp",Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-id="日テレプラス　ドラマ・アニメ・音楽ライブ.jp",Nittele Plus (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 tvg-id="スカイA.jp",Sky A (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-
+#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル.jp",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="CS" tvg-id="キッズステーション.テレビアニメ･劇場版･ＯＶＡ.jp",Kids Station
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン.ネットワーク.海外アニメ国内アニメ.jp",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="CS" tvg-id="アニメシアターX(AT-X).jp",AT-X
+https://neetball.net/live/neet3.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="ディズニージュニア.jp",Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="CS" tvg-id="日テレNEWS24.jp",NTV News24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="日テレNEWS24.jp",NTV News24
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="CNNj.jp",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 tvg-id="旅チャンネル.jp",Tabi Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 tvg-id="TAKARAZUKA.SKY.STAGE.jp",TAKARAZUKA SKY STAGE (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 tvg-id="東映チャンネル.jp",Toei Channel (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-
+#EXTINF:-1 group-title="CS" tvg-id="ショップチャンネル.jp",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
 
 #OSAKA
-#EXTINF:-1 group-title="Osaka" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Osaka) (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Osaka)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="Osaka" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
@@ -152,7 +142,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
 #Other
-#EXTINF:-1 group-title="Other" tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+#EXTINF:-1 group-title="Other" tvg-id="NHKWorldJapan.jp",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="Other" tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
+#EXTINF:-1 group-title="Other" tvg-id="NHKWorldPremium.jp",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="Other" tvg-id="ジュエリー☆ＧＳＴＶ.jp",GSTV
+https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
+#EXTINF:-1 group-title="Other" tvg-id="Weathernews.jp",Weathernews (720p)
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
