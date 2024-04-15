@@ -50,7 +50,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 group-title="BS"  tvg-id="BS11イレブン.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="BS"  tvg-id="BS12.トゥエルビ.jp", BS12
-http://122.155.180.8:5021/live/302.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 
 #temporary
 #EXTINF:-1 tvg-id="ジュエリー☆ＧＳＴＶ.jp",GSTV (720p)
