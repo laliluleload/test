@@ -68,11 +68,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 
 #CS
-#EXTINF:-1 group-title="CS" tvg-id="東映チャンネル.jp",Toei Channel (1080p)
+#EXTINF:-1 group-title="CS" tvg-id="東映チャンネル.jp",Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="CS" tvg-id="衛星劇場.jp",Eisei Gekijo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="CS" tvg-id="ムービープラス.jp",Movie Plus (544p)
+#EXTINF:-1 group-title="CS" tvg-id="ムービープラス.jp",Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 #EXTINF:-1 group-title="CS" tvg-id="スカイA.jp",Sky A
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
