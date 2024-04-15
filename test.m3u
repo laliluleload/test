@@ -4,10 +4,6 @@
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp",NHK G (Tokyo) (540p) 
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="日テレ.jp",Nippon TV (540p) 
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="日テレNEWS24.jp",NTV News24 (480p)
@@ -153,3 +149,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 tvg-id="",Sun TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#Other
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
