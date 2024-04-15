@@ -1,34 +1,54 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz" tvg-shift=0 m3uautoload=1
 
+#TOKYO
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫ総合１・東京.jp",NHK G (Tokyo) (540p) 
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫ総合１・東京.jp",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＮＨＫＥテレ１・東京.jp",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="Tokyo" tvg-id="日テレ.jp",Nippon TV (540p) 
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="日テレ.jp",Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日.jp",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日.jp",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＴＢＳ.jp",TBS (540p)
+https://tbs4.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ＴＢＳ.jp",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ東京.jp",TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビ.jp",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (720p)
+https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (720p)
+https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 tvg-id="TokyoMX2.jp",Tokyo MX2 (720p)
+https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp",Tokyo MX2 (720p)
+https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+
+
+#temporary
 #EXTINF:-1 tvg-id="ジュエリー☆ＧＳＴＶ.jp",GSTV (720p)
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp",NHK G (Tokyo) (540p) 
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="日テレ.jp",Nippon TV (540p) 
-https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="日テレNEWS24.jp",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="日テレNEWS24.jp",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 tvg-id="ショップチャンネル.jp",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="ＴＢＳ.jp",TBS (540p)
-https://tbs4.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (720p)
-https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
-#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (720p)
-https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
-#EXTINF:-1 tvg-id="TokyoMX2.jp",Tokyo MX2 (720p)
-https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
-#EXTINF:-1 tvg-id="TokyoMX2.jp",Tokyo MX2 (720p)
-https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (720p)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1 tvg-id="アニメシアターX(AT-X).jp",AT-X (720p)
 https://neetball.net/live/neet3.m3u8
 
-#EXTINF:-1 tvg-id="テレビ朝日.jp",ABC (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="アニマックス.jp",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="ＢＳ朝日.jp",BS Asahi (544p)
@@ -57,8 +77,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 #EXTINF:-1 tvg-id="ＢＳ釣りビジョン.jp",Fishing Vision (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 tvg-id="フジテレビ.jp",Fuji TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 tvg-id="フジテレビＮＥＸＴ.ライブ・プレミアム.jp",Fuji TV NEXT (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 tvg-id="GAORA.SPORTS.jp",Gaora Sports (544p)
@@ -99,14 +117,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 tvg-id="NHK.BS4K.jp",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp",NHK E (Tokyo) (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp",NHK G (Tokyo) (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 tvg-id="日本映画専門チャンネル.jp",Nihon Eiga Senmon (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 tvg-id="日テレ.jp",Nippon TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 tvg-id="日テレプラス　ドラマ・アニメ・音楽ライブ.jp",Nittele Plus (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 tvg-id="スカイA.jp",Sky A (544p)
@@ -121,16 +133,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:-1 tvg-id="TAKARAZUKA.SKY.STAGE.jp",TAKARAZUKA SKY STAGE (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 tvg-id="ＴＢＳ.jp",TBS (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 tvg-id="東映チャンネル.jp",Toei Channel (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 tvg-id="ＴＯＫＹＯ　ＭＸ１.jp",Tokyo MX1 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-id="テレビ朝日.jp",TV Asahi (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-id="テレビ東京.jp",TV Tokyo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="ＷＯＷＯＷシネマ.jp",WOWOW Cinema (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 tvg-id="ＷＯＷＯＷライブ.jp",WOWOW Live (544p)
@@ -139,19 +143,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
 #OSAKA
-#EXTINF:-1 tvg-id="",NHK G (Osaka) (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="",NHK G (Osaka) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 tvg-id="",Kansai TV (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="",Kansai TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 tvg-id="",YTV (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="",YTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-#EXTINF:-1 tvg-id="大阪.jp",TV Osaka (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="大阪.jp",TV Osaka (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-#EXTINF:-1 tvg-id="",Sun TV (544p)
+#EXTINF:-1 group-title="Osaka" tvg-id="",Sun TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
 #Other
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+#EXTINF:-1 group-title="Other" tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
+#EXTINF:-1 group-title="Other" tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
