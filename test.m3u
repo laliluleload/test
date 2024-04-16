@@ -119,7 +119,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="CNNj.jp",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="CS" tvg-id="旅チャンネル.jp",Tabi Channel (544p)
+#EXTINF:-1 group-title="CS" tvg-id="旅チャンネル.jp",Tabi Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:-1 group-title="CS" tvg-id="ショップチャンネル.jp",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
