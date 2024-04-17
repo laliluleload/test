@@ -69,6 +69,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="BS" tvg-id="BS松竹東急.jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/l6kArOPkx3rCe-BY5PGk5Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Shochiku Tokyu
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
 
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="ＱＶＣ（キューヴィーシー）.jp",QVC
@@ -117,8 +119,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 https://neetball.net/live/neet3.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ディズニージュニア.jp",Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="CS" tvg-id="ディスカバリーチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+#EXTINF:-1 group-title="CS" tvg-id="ディスカバリーチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="CS" tvg-id="ヒストリーチャンネル.日本・世界の歴史＆エンタメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="CS" tvg-id="ナショナル.ジオグラフィック.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", National Geographic
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="日テレNEWS24.jp",NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TBS.NEWS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png" group-title="Japan",TBS News
