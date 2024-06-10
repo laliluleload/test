@@ -41,11 +41,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="ＷＯＷＯＷシネマ.jp",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="BS" tvg-id="スターチャンネル１.jp",Star 1
+#EXTINF:-1 group-title="BS" tvg-id="スター・チャンネル1.jp",Star 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="BS" tvg-id="スターチャンネル２.jp",Star 2
+#EXTINF:-1 group-title="BS" tvg-id="スター・チャンネル2.jp",Star 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 group-title="BS" tvg-id="スターチャンネル３.jp",Star 3
+#EXTINF:-1 group-title="BS" tvg-id="スター・チャンネル3.jp",Star 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 group-title="BS" tvg-id="BS11イレブン.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://pipe.ra1n.lol/bs11/index.m3u8
